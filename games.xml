@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+	<joc id="1">
+		<codi>1</codi>
+		<nom>Mincraft</nom>
+		<versio>1.14.2</versio>
+		<companyia>Mojang</companyia>
+		<anyrelease>2006</anyrelease>
+	</joc>
+	<joc id="1">
+		<codi>2</codi>
+		<nom>Mincraft</nom>
+		<versio>1.14.2</versio>
+		<companyia>Mojang</companyia>
+		<anyrelease>2006</anyrelease>
+	</joc>
+	<joc id="1">
+		<codi>3</codi>
+		<nom>Mincraft</nom>
+		<versio>1.14.2</versio>
+		<companyia>Mojang</companyia>
+		<anyrelease>2006</anyrelease>
+	</joc>
+	<joc id="2">
+		<codi>11</codi>
+		<nom>Mincraft 2</nom>
+		<versio>1.5.0</versio>
+		<companyia>Mojang</companyia>
+		<anyrelease>2018</anyrelease>
+	</joc>
+	<joc id="2">
+		<codi>12</codi>
+		<nom>Mincraft 2</nom>
+		<versio>1.5.0</versio>
+		<companyia>Mojang</companyia>
+		<anyrelease>2018</anyrelease>
+	</joc>
+	<joc id="2">
+		<codi>13</codi>
+		<nom>Mincraft 2</nom>
+		<versio>1.5.0</versio>
+		<companyia>Mojang</companyia>
+		<anyrelease>2018</anyrelease>
+	</joc>
+	<prestec>
+		<joc id="1">
+			<codi>3</codi>
+		</joc>
+		<dataprestec>14/12/2021</dataprestec>
+		<datadevolucio>16/12/2021</datadevolucio>
+		<soci id="1"/>
+	</prestec>
+	<soci id="1">
+		<dni>48029916M</dni>
+		<nom>Eric García Castro</nom>
+		<telefon>644119926</telefon>
+	</soci>
+</botiga>
